@@ -1,7 +1,7 @@
 ![BlenderRender](assets/RCSZ.PNG)
 <h1 align="center">Hi 👋 I'm RCSZ</h1>
-<h3 align="center">🐠 I'm a novice in C++17. & Golang Backend Beginners.</h3>
-<h3 align="center">😆 RC model aviation enthusiasts with a strong passion.(🚁Alzrc380/420)</h3>
-<h3 align="center">😐 Entrepreneurship college students on campus.</h3>
+<h3 align="center">🐠 C++17菜鸟 & Golang初学者</h3>
+<h3 align="center">😆 RC航模直升机狂热爱好者(竞速飞行)380/420级</h3>
+<h3 align="center">😐 在校创业大学生</h3>
 
-<h5 align="center">😂 My English skills are so rusty, I'm practically bilingual with Google Translate.</h5>
+<h5 align="center">😣 平时请尽量少和我聊编程相关</h5>
