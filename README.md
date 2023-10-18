@@ -8,9 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RCSZC&show_icons=true&theme=radical"/>
 </p>
 
-## 🐠 C++ & Golang
+## 🐠 编程
 - 经常使用C++17但是很菜
-- Golang初学者, 搭建高并发后端
+- Golang初学者
+- OpenCL、OpenGL、桌面UI开发
   
 ## 😆 RC航模直升机爱好者(竞速)380/420级
 - 喜欢和朋友户外飞行
@@ -24,3 +25,6 @@
 - 航模三角翼飞行(3秒砸地上)
 - 风景摄影调色剪辑
 - 似乎被朋友带入了Furry?
+
+### 临时备注
+2023-10-18 为工作室投资问题头痛, 最近很少更新
