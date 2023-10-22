@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/RCSZ-HELIRC.png" alt="T1" style="width: 49%">
-    <img src="assets/RCSZ-HELIRC-S.png" alt="T2" style="width: 49%">
+    <img src="assets/RCSZ-HELIRC-SS.png" alt="T2" style="width: 49%">
 </div>
 
 # Hi 👋 I'm RCSZ
