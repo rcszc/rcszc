@@ -1,4 +1,4 @@
-![BlenderRender](assets/RCSZ.PNG)
+![BlenderRender](assets/RCSZ-HELIRC.png)
 # Hi 👋 I'm RCSZ
 
 <p align="center">
