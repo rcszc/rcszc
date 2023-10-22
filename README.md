@@ -1,15 +1,10 @@
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/RCSZ-HELIRC.png" alt="T1" style="width: 49%">
-    <img src="assets/RCSZ-HELIRC-SS.png" alt="T2" style="width: 49%">
-</div>
+# 👋 Hi I'm RCSZ
 
-# Hi 👋 I'm RCSZ
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCSZC&theme=radical&layout=compact"/>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RCSZC&show_icons=true&theme=radical"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCSZC&theme=radical&layout=compact"/>
 </p>
 
 ## 🐠 编程
@@ -29,3 +24,10 @@
 > - 似乎被朋友带入了Furry
 > - 航模高速三角翼/V字翼 (3秒飞出视线然后提控回家
 > - 高原风景摄影调色剪辑
+---
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/RCSZ-HELIRC.png" alt="T1" style="width: 49%">
+    <img src="assets/RCSZ-HELIRC-S.png" alt="T2" style="width: 49%">
+</div>
+
+> Infinity 3120 6S 1000kv、DEKO 1295 * 3 + 6925 * 1 (333Hz/1520us)、ALIGN 70A ESC、TGZ 380N. 倒飞悬停练稳了准备换台ALZRC505/SAB570/SAB580
