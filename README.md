@@ -30,4 +30,5 @@
     <img src="assets/RCSZ-HELIRC-S.png" alt="T2" style="width: 49%">
 </div>
 
-> Infinity 3120 6S 1000kv、DEKO 1295 * 3 + 6925 * 1 (333Hz/1520us)、ALIGN 70A ESC、TGZ 380N. 倒飞悬停练稳了准备换台ALZRC505/SAB570/SAB580
+> Infinity 3120 6S 1000kv、DEKO 1295 * 3 + 6925 * 1 (333Hz/1520us)、ALIGN 70A ESC、TGZ 380N、380mm3K.
+> 种草💳 ALZRC505/ALIGN550x/SAB580
