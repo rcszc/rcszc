@@ -24,7 +24,7 @@
 > - 高原风景摄影调色剪辑
 ---
 
-<img src="assets/helirc380.png" alt="T1">
+<img src="assets/helirc380.PNG" alt="T1">
 
 > - Infinity 3120 6S 1000kv、DEKO 1295 * 3 + 6925 * 1 (333Hz/1520us)、ALIGN 70A ESC、TGZ 380N、380mm3K.
 > - 种草💳 ALZRC505/ALIGN550x/SAB580
