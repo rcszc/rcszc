@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi I'm RCSZ</h1>
-<img src="assets/rcszlogo_v2.1.PNG" alt="RCSZ">
+<img src="assets/rcszlogo_v2.1.png" alt="RCSZ">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RCSZC&show_icons=true&theme=radical"/>
