@@ -22,7 +22,7 @@ __2024-2025__
 > - __语言__: 经常使用C++17 & Golang初学者 (很菜)
 > - __技术栈__: GPGPU并行计算 & OpenGL图形学 (偶尔写一下后端
 
-当前维护项目: [StarryPCA](https://github.com/rcszc/StarryPCA)
+当前维护项目: 1. [StarryPCA](https://github.com/rcszc/StarryPCA) 2. [AnimCurvesEditor](https://github.com/rcszc/AnimCurvesEditor)
 
 ## 😆 航模无副翼直升机爱好者
 > - 喜欢和朋友户外飞行
