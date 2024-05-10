@@ -20,7 +20,7 @@
 __2024-2025__
 ## 🐠 编程
 > - __语言__: 经常使用C++17 & Golang初学者 (很菜)
-> - __技术栈__: GPGPU并行计算 & OpenGL图形学 (偶尔写一下后端
+> - __技术栈__: GPGPU并行计算 & OpenGL4.6/DirectX3D12 图形学 (偶尔写一下后端
 
 当前维护项目: 1. [StarryPCA](https://github.com/rcszc/StarryPCA) 2. [AnimCurvesEditor](https://github.com/rcszc/AnimCurvesEditor)
 
