@@ -14,7 +14,8 @@
 <img src="https://img.shields.io/badge/C++-17-red?style=for-the-badge&logo=c%2B%2B"/>
 <img src="https://img.shields.io/badge/Go-1.21-cyan?style=for-the-badge&logo=go"/>
 <img src="https://img.shields.io/badge/GLSL-4.6-blue?style=for-the-badge&logo=opengl"/>
-<img src="https://img.shields.io/badge/CL-3.0-blue?style=for-the-badge&logo=opencl"/>
+<img src="https://img.shields.io/badge/CL-3.0-orange?style=for-the-badge&logo=opencl"/>
+<img src="https://img.shields.io/badge/HLSL-5.1-orange?style=for-the-badge&logo=direct3d12"/>
 </p>
 
 __2024-2025__
