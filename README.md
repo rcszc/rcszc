@@ -25,15 +25,12 @@ __2024-2025__
 
 当前维护项目: 1. [StarryPCA](https://github.com/rcszc/StarryPCA) 2. [AnimCurvesEditor](https://github.com/rcszc/AnimCurvesEditor)
 
-## 😆 航模无副翼直升机爱好者
-> - 喜欢和朋友户外飞行
-> - 享受直升机独特的声浪和暴力美学
+<p align="center">
+<strong> 爱好 航模无副翼直升机 / 高原风光 / 引擎设计のFurry </strong>
+</p>
+<p align="center">
+<img src="assets/rcszheil.png" alt="RCSZ">
+</p>
 
-## 😄 其他爱好
-> - FURRY
-> - 航模固定翼(上单翼&中单翼3D)
-> - 高原风景摄影调色剪辑
----
-
-可以来找我 倾诉&聊天&本地可以线下约飞航模(3S,6S), 如果与人交流最基本的情商都没有那只能当xx处理了...
+可以来找我 倾诉&聊天&本地可以线下约飞航模, 如果与人交流最基本的情商都没有那只能当xx处理了...
 > QQ: 2167163728
