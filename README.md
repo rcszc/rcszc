@@ -29,8 +29,8 @@ __2024-2025__
 <strong> 爱好 航模无副翼直升机 / 高原风光 / 引擎设计のFurry </strong>
 </p>
 <p align="center">
-<img src="assets/rcszheil.png" alt="RCSZ">
+<img src="assets/rcszheil.png" alt="GAUI_X5V2">
 </p>
 
-可以来找我 倾诉&聊天&本地可以线下约飞航模, 如果与人交流最基本的情商都没有那只能当xx处理了...
-> QQ: 2167163728
+欢迎来找我 倾诉&聊天&本地可以线下约飞航模, 如果与人交流最基本的情商都没有那只能当xx处理了...
+> QQ: 2167163728 V: rcszVxxsxsx (不常上)
