@@ -24,6 +24,7 @@
 
 <p align="center"><strong> 爱好 航模无副翼直升机 / 业余UI设计 / 业余引擎设计 のFurry🐾 </strong></p>
 <p align="center"><img src="assets/rcszheli.png" alt="GAUI_X5V2"></p>
+<img src="https://komarev.com/ghpvc/?username=rcszc&?style=for-the-badge"/>
 
 ---
 
