@@ -24,7 +24,6 @@
 
 <p align="center"><strong> 爱好 航模无副翼直升机 / 业余UI设计 / 业余引擎设计 のFurry🐾 </strong></p>
 <p align="center"><img src="assets/rcszheli.png" alt="GAUI_X5V2"></p>
-<p align="center"><strong> 虽然国内属于航模直升机的时代已经过去, 但是独有的暴力美学依然能唤醒我们的热血 - RCSZ </strong></p>
 
 ---
 
