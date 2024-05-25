@@ -1,0 +1,35 @@
+name: Count Files
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  count-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Count files
+        run: |
+          FILE_COUNT=$(find . -type f | wc -l)
+          echo "{\"file_count\": $FILE_COUNT}" > file_count.json
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit file count
+        run: |
+          git add file_count.json
+          git commit -m "Update file count"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
