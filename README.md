@@ -20,9 +20,9 @@
 > - __语言__: 经常使用C++17 & Golang初学者 (很菜)
 > - __技术栈__: GPGPU并行计算 & OpenGL4.6/DirectX3D12 图形学 (偶尔写一下后端
 
-当前维护项目: ---
+当前维护项目: [PSAGame2D](https://github.com/rcszc/PSAGame2D)
 
-<p align="center"><strong> 爱好 航模无副翼直升机 / 业余UI设计 / 业余引擎设计 のFurry🐾 </strong></p>
+<p align="center"><strong> 爱好 引擎设计 / 航模无副翼直升机 / 业余UI设计 のFurry🐾 </strong></p>
 <p align="center"><img src="assets/rcszheli.png" alt="GAUI_X5V2"></p>
 <img src="https://komarev.com/ghpvc/?username=rcszc&?style=for-the-badge"/>
 
