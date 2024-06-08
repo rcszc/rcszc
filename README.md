@@ -18,8 +18,7 @@
 
 ## 🐠 编程
 > - __语言__: 经常使用C++17 & Golang初学者 (很菜)
-> - __
-技术栈__: GPGPU并行计算 & OpenGL4.6/DirectX3D12 图形学 (偶尔写一下后端
+> - __技术栈__: GPGPU并行计算 & OpenGL4.6/DirectX3D12 图形学 (偶尔写一下后端
 
 当前维护项目: [PSAGame2D](https://github.com/rcszc/PSAGame2D)
 
