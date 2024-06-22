@@ -17,12 +17,12 @@
 </p>
 
 ## 🐠 编程
-> - __语言__: 经常使用C++17 & Golang初学者 (很菜)
-> - __技术栈__: GPGPU并行计算 & OpenGL4.6/DirectX3D12 图形学 (偶尔写一下后端
+> - __语言__: 经常使用C++17 & Golang初学者(已摆烂)
+> - __技术栈__: GPGPU并行计算 & OpenGL4.6/DirectX3D12 图形学
 
 当前维护项目: [PSAGame2D](https://github.com/rcszc/PSAGame2D)
 
-<p align="center"><strong> 爱好 框架设计 / 航模无副翼直升机 / 业余UI设计 / 业余虚拟币超短线 のFurry🐾 </strong></p>
+<p align="center"><strong> 爱好 框架设计 / 航模直升机 / 虚拟币合约亏损专家 / 业余UI设计 のFurry🐾 </strong></p>
 <p align="center"><img src="assets/rcszheli.png" alt="GAUI_X5V2"></p>
 
 ---
