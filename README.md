@@ -2,8 +2,8 @@
 <img src="assets/rcszlogo_v2.1.png" alt="RCSZ">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RCSZC&show_icons=true&theme=radical" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCSZC&theme=radical&layout=compact" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RCSZC&show_icons=true&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCSZC&theme=radical&layout=compact" width="38%"/>
 </p>
 
 <p align="center"><strong> Stay hungry. Stay foolish. - Steve Jobs </strong></p>
