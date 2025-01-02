@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCSZC&theme=radical&layout=compact" width="38%"/>
 </p>
 
-<p align="center"><strong> Stay hungry. Stay foolish. - Steve Jobs </strong></p>
+<p align="center"><strong> Stay hungry. stay foolish. - Steve Jobs </strong></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C++-17-red?style=for-the-badge&logo=c%2B%2B"/>
@@ -16,16 +16,16 @@
 <img src="https://img.shields.io/badge/HLSL-5.0-orange?style=for-the-badge&logo=direct3d12"/>
 </p>
 
-## 🐠 编程
-> - __语言__: 经常使用C++17 `很菜` __&__ Golang初学者 `已摆烂`
-> - __技术栈__: GPGPU并行计算 & OpenGL/Vulkan 图形学 & 游戏组件设计
-> - __英语__: 小学都没及格那种
+## 🐠 开发
+> - __语言:__ 经常使用C++17 `很菜` __&__ Golang初学者 `已摆烂`
+> - __技术栈:__ GPGPU并行计算 & OpenGL/Vulkan 图形学 & 游戏组件设计
+> - __英语:__ 小学都没及格那种
 
 当前维护项目: [PSAGame2D](https://github.com/rcszc/PSAGame2D)
 
-<p align="center"><strong> 爱好 <code>框架设计</code> <code>航模直升机</code> <code>虚拟币合约</code> のFurry🐾 </strong></p>
+<p align="center"><strong> <code>框架设计</code> <code>航模直升机</code> <code>虚拟币合约</code>  <code>Furry🐾</code> </strong></p>
 <p align="center"><img src="assets/rcszheli.png" alt="GAUI_X5V2"></p>
 
 ---
 
-闲聊QQ群: 862410678
+QQ: 2167163728
