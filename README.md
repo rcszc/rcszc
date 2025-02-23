@@ -17,11 +17,11 @@
 </p>
 
 ## 🐠 开发
-> - __语言:__ 经常使用C++17 `很菜` __&__ Golang初学者 `已摆烂`
+> - __语言:__ 经常使用 `C++17` __&__ `Golang` 初学者
 > - __技术栈:__ GPGPU并行计算 & OpenGL/Vulkan 图形学 & 游戏组件设计
-> - __英语:__ 小学都没及格那种
+> - __英语:__ 很差 很差 很差
 
-当前维护项目: [PSAGame2D](https://github.com/rcszc/PSAGame2D)
+💻当前维护项目: [PSAGame2D](https://github.com/rcszc/PSAGame2D)
 
 <p align="center"><strong> <code>框架设计</code> <code>航模直升机</code> <code>虚拟币合约</code>  <code>Furry🐾</code> </strong></p>
 <p align="center"><img src="assets/rcszheli.png" alt="GAUI_X5V2"></p>
