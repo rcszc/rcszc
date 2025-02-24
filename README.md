@@ -18,7 +18,7 @@
 
 ## 🐠 开发
 > - __语言:__ 经常使用 `C++17` __&__ `Golang` 初学者
-> - __技术栈:__ GPGPU并行计算 & OpenGL/Vulkan 图形学 & 游戏组件设计
+> - __技术栈:__ `GPGPU并行计算` __&__ `OpenGL/OpenCL` __&__ `游戏组件设计`
 > - __英语:__ 很差 很差 很差
 
 💻当前维护项目: [PSAGame2D](https://github.com/rcszc/PSAGame2D)
